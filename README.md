@@ -30,18 +30,6 @@ The Legal System Project is a Java Swing-based application that provides a simpl
   - Option to hire a lawyer
   - Navigates to budget ranges page
 
-- **Budget Ranges:**
-  - Buttons: Below $1000, Below $1500, Over $1500
-  - Navigates to consecutive Choose a Lawyer page based on budget
-
-- **Choose a Lawyer:**
-  - Buttons with Lawyer names
-  - Navigates to consecutive Lawyer Profile page
-
-- **Lawyer Profile:**
-  - Displays detailed information about the selected lawyer
-  - Option to hire the lawyer
-
 - **Admin Dashboard:**
   - Buttons: Add a Case, Edit a Case, Add a Lawyer, Edit a Lawyer
   - Opens respective windows for case and lawyer management
