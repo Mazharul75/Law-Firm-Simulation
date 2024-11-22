@@ -39,7 +39,7 @@ public class LawyerInfoWindow extends JFrame {
 
     private void initialize() {
         Vector<String> columnNames = new Vector<>();
-        columnNames.add("Lawyer Name");
+        columnNames.add("Prosecutor Name");
         columnNames.add("Lawyer Type");
         columnNames.add("Cases Handled");
         columnNames.add("Cases Won");
